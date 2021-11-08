@@ -1,3 +1,5 @@
+#ハッシュの使い方とif文
+
 #構文の間違いを自動的にチェック
 use strict;
 use warnings;
